@@ -18,7 +18,7 @@ create a leader board that will display a list of players of a game in descendin
 </ul>
 
 <h1>Note:</h1>
-<img src="https://github.com/arifur-rafid/ScoreBoard/blob/master/screenshot/note.png">
+<img src="https://github.com/arifur-rafid/ScoreBoard/blob/master/screenshot/note1.png">
 
 <h3>Screenshots</h3> 
 <caption><h3>This week portrait view</h3></caption>
