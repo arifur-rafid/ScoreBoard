@@ -7,7 +7,7 @@ create a leader board that will display a list of players of a game in descendin
 <ul>
   <li> Display a list of players of a game in descending order of total winnings basis on week or all time</li>
   <li> Responsive UI</li>
-  <li> Support Different resolution/li>
+  <li> Support Different resolution</li>  
   <li> Data and UI are not affected by screen orientaion</li>  
 </ul>
 
@@ -26,5 +26,7 @@ create a leader board that will display a list of players of a game in descendin
 <caption><h3>All time portrait view</h3></caption>
 <img src="https://github.com/arifur-rafid/ScoreBoard/blob/master/screenshot/alltimeportrait.png" height="600" width="338">
 
-<caption><h3>All time landscape view </h3></caption>
+<caption><h3>All time landscape view 1 </h3></caption>
 <img src="https://github.com/arifur-rafid/ScoreBoard/blob/master/screenshot/alltimelandscape.png" height="338" width="600">
+<caption><h3>All time landscape view 2 </h3></caption>
+<img src="https://github.com/arifur-rafid/ScoreBoard/blob/master/screenshot/alltimelandscape1.png" height="338" width="600">
